@@ -91,9 +91,9 @@ http://localhost/Student-Task-Manager/
 
 ## Developer
 
-Sunny Yadav
+KARAN KUMAR
 
-Registered Email: YOUR_REGISTERED_EMAIL@example.com
+Registered Email:KK3061118@GMAIL.COM
 
 ## GitHub Repository
 
