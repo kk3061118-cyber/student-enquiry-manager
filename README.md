@@ -78,7 +78,7 @@ tasks
 5. Copy the project folder to htdocs.
 6. Open:
 
-http://localhost/Student-Task-Manager/
+http://localhost/Student-enquiry-Manager/
 
 ## Future Version (V1)
 
